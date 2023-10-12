@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body, html {
+    color: #46494C;
+    font-family: Segoe UI;
+}
+.main_container {
+    background-color: #96eef4;
+    max-width: 90vw;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: #46494C;
+    font-size: 20px;
+    padding: 12px;
+}
+nav a:hover {
+    color: blue;
+}
+.main_image img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin: auto;
+}
+#introduction p {
+    text-align: justify;
+    text-justify: none;
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 2;
+    font-size: 16px;
+}
+#timeline ul {
+    padding: 5vh 20vw;
+    list-style: disc;
+    line-height: 2;
+    font-size: 16px;
+    text-align: justify;
+    text-justify: none;
+}
+#timeline h2 {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 5vh;
+}
+#honors ul {
+    padding: 5vh 20vw;
+    list-style: disc;
+    line-height: 2;
+    font-size: 16px;
+    text-align: justify;
+    text-justify: none;
+}
+#honors h2 {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 5vh;
+}
+#songs_info ul {
+    padding: 5vh 20vw;
+    list-style: disc;
+    line-height: 2;
+    font-size: 16px;
+    text-align: justify;
+    text-justify: none;
+}
+#songs_info h2 {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 5vh;
+}
+p.content {
+    font-size: 16px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 5vh;
+}
+#more_info {
+    margin-top: 30px;
+    background-color: rgb(205, 221, 228);
+    width: 90%;
+    margin: auto;
+    border-radius: 8px;
+}
+
+
+
